@@ -6,9 +6,7 @@
 ### <div align="center">I'm Igor, a full-stack freelance developer and project director</div>  
   
 
-- 🔭 I’m currently working on web full-stack  
-  
-
+- 🔭 I’m currently full-stack developer
 - I'm a expert project manager worked in several european R&D projects  
   
 
