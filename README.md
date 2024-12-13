@@ -1,7 +1,4 @@
-<div align="center">
-<img src="github-header-image.png" align="center" style="width: 100%" />
-</div>  
-  
+![Igor Aranguren](github-header-image.png)
 
 ### <div align="center">I'm Igor, a full-stack freelance developer and project director</div>  
   
